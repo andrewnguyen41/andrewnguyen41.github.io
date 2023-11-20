@@ -1,7 +1,7 @@
 [
     {
         "time": "Feb 2023 - May 2023",
-        "title": "Full-stack Developer",
+        "title": "Full-Stack Developer",
         "company": "Silientium",
         "summary": "Developed scalable healthcare solutions for German clinics via a microservices architecture, boosting performance by 30% through MongoDB query optimization and document indexing. Streamlined core API testing, minimizing errors in both development and production. Automated deployments using Docker, Docker Swarm, and GitLab CI. Built Clinic Frontend with React, Redux, React Component, and React Hooks.",
         "tags": ["Go","NodeJs","ReactJs","NATS","MongoDB","Docker"]
