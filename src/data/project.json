@@ -1,6 +1,6 @@
 [
     {
-        "image": "/aws-core-banking.png",
+        "image": "/aws-core-banking.jpg",
         "title": "Core Banking Disaster Recovery Solution |",
         "link": "https://github.com/andrewnguyen41/aws-core-banking-disaster-recovery",
         "summary": "A system design for handling disaster backup and recovery of core banking system using AWS services . Ensured minimal downtime and rapid failover, offered system recovery point and time measured in minutes.",
@@ -14,14 +14,14 @@
         "tags": ["Scikit-learn", "Flask", "AWS S3"]
     },
     {
-        "image": "/saga.png",
+        "image": "/saga.jpg",
         "title": "Saga Pattern for Distributed Payment Transactions",
         "link": "https://github.com/andrewnguyen41/saga-nodejs-kafka",
         "summary": "A demonstration project for handling payment transactions in distributed system using Saga Orchestration Pattern. Enabled low coupling, fault tolerance, retries, and reliable rollback for long-running transactions.",
         "tags": ["NodeJs", "Kafka", "MongoDB"]
     },
     {
-        "image": "/vim-showcase.png",
+        "image": "/vim-showcase.jpeg",
         "title": "Vim Development Config Showcase",
         "link": "https://github.com/andrewnguyen41/vim-showcase",
         "summary": "A Vim, Tmux, Yabai, Alacritty development config showcases.",
