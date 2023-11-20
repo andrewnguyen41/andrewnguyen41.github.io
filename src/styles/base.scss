@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+$primary-blue: rgb(15 23 42);
+$primary-green: #5EEAD4;// #b69c9f;
+$text-main: #e2e8f0;
+$text-sub: #94a3b8;
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    background-color: $primary-blue;
+    color: $text-main;
+
+    max-width: 1280px;
+    margin: auto;
+}

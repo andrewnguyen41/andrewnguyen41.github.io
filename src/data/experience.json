@@ -1,0 +1,23 @@
+[
+    {
+        "time": "Feb 2023 - May 2023",
+        "title": "Full-stack Developer",
+        "company": "Silientium",
+        "summary": "Developed scalable healthcare solutions for German clinics via a microservices architecture, boosting performance by 30% through MongoDB query optimization and document indexing. Streamlined core API testing, minimizing errors in both development and production. Automated deployments using Docker, Docker Swarm, and GitLab CI. Built Clinic Frontend with React, Redux, React Component, and React Hooks.",
+        "tags": ["Go","NodeJs","ReactJs","NATS","MongoDB","Docker"]
+    },
+    {
+        "time": "Sep 2021 - Jan 2023",
+        "title": "Backend Developer",
+        "company": "VinGroup",
+        "summary": "Implemented cloud-based enterprise applications for leading national hotels and amusement parks. Enhanced reporting task performance by 60% to over 100% through database query optimizations. Monitored service performance, bottlenecks using AWS CloudWatch. Craft a fault-tolerant Payment Gateway supporting multiple payment methods, complete with auditing and reporting functionalities.",
+        "tags": [".NET Core","NodeJs","PostgreSQL","Kafka","Docker","AWS"]
+    },
+    {
+        "time": "Sep 2019 - May 2021",
+        "title": "IOS Developer",
+        "company": "VNG Corporation",
+        "summary": "Developed a highly acclaimed mobile news app boasting 20 million active users. Enhanced article listing UI performance by 20% via Rendering Strategy techniques. Implemented a deduplication algorithm for adjacent articles' publishers, leading to a 10% increase in positive user feedback.",
+        "tags": ["iOS","Swift","Objective-C"]
+    }
+]

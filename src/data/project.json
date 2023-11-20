@@ -1,0 +1,30 @@
+[
+    {
+        "image": "/aws-core-banking.png",
+        "title": "Core Banking Disaster Recovery Solution |",
+        "link": "https://github.com/andrewnguyen41/aws-core-banking-disaster-recovery",
+        "summary": "A system design for handling disaster backup and recovery of core banking system using AWS services . Ensured minimal downtime and rapid failover, offered system recovery point and time measured in minutes.",
+        "tags": ["AWS", "CloudFormation", "System Design"]
+    },
+    {
+        "image": "/fraud-detection.png",
+        "title": "Credit Card Fraud Detection ML System",
+        "link": "https://github.com/andrewnguyen41/fraud-detection-ml-system",
+        "summary": "A Machine Learning system for fraud detection using XGBoost, SMOTE achieving F1 score 0.92 on Kaggle dataset. Establish a mechanism to regularly check for new data, adjust the model, and adapt to continuous update patterns.",
+        "tags": ["Scikit-learn", "Flask", "AWS S3"]
+    },
+    {
+        "image": "/saga.png",
+        "title": "Saga Pattern for Distributed Payment Transactions",
+        "link": "https://github.com/andrewnguyen41/saga-nodejs-kafka",
+        "summary": "A demonstration project for handling payment transactions in distributed system using Saga Orchestration Pattern. Enabled low coupling, fault tolerance, retries, and reliable rollback for long-running transactions.",
+        "tags": ["NodeJs", "Kafka", "MongoDB"]
+    },
+    {
+        "image": "/vim-showcase.png",
+        "title": "Vim Development Config Showcase",
+        "link": "https://github.com/andrewnguyen41/vim-showcase",
+        "summary": "A Vim, Tmux, Yabai, Alacritty development config showcases.",
+        "tags": ["NeoVim", "LunarVim", "Tmux"]
+    }
+]
