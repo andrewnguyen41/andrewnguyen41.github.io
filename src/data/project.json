@@ -1,7 +1,7 @@
 [
     {
         "image": "/aws-core-banking.jpg",
-        "title": "Core Banking Disaster Recovery Solution |",
+        "title": "Core Banking Disaster Recovery Solution",
         "link": "https://github.com/andrewnguyen41/aws-core-banking-disaster-recovery",
         "summary": "A system design for handling disaster backup and recovery of core banking system using AWS services . Ensured minimal downtime and rapid failover, offered system recovery point and time measured in minutes.",
         "tags": ["AWS", "CloudFormation", "System Design"]
