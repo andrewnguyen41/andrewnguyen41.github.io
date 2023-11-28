@@ -1,13 +1,20 @@
-[{
+[
+  {
     "image": "/aws.jpeg",
     "title": "AWS Certified Solutions Architect – Associate",
     "link": "https://www.credly.com/badges/d2d4f93d-d4a3-41c8-99b4-9342177439d9",
     "summary": "Amazon Web Services (AWS)"
-},
-{
+  },
+  {
     "image": "/uci.jpeg",
     "title": "Finance for Non-Financial Professionals",
     "link": "https://www.coursera.org/account/accomplishments/certificate/2T5DR9YHP7BH",
     "summary": "University of California, Irvine Division of Continuing Education I Coursera"
-}
+  },
+  {
+    "image": "/udemy.jpg",
+    "title": "PostgreSQL High Performance Tuning",
+    "link": "https://www.udemy.com/certificate/UC-7e9c6462-358b-4ecf-867a-15f2108b1791/",
+    "summary": "Udemy"
+  }
 ]
