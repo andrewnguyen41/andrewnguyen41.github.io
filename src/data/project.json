@@ -1,5 +1,12 @@
 [
     {
+        "image": "/fraud-detection.png",
+        "title": "Credit Card Fraud Detection ML System",
+        "link": "https://github.com/andrewnguyen41/fraud-detection-ml-system",
+        "summary": "A Machine Learning system for fraud detection using XGBoost, SMOTE achieving F1 score 0.92 on Kaggle dataset. Establish a mechanism to regularly check for new data, adjust the model, and adapt to continuous update patterns.",
+        "tags": ["Scikit-learn", "Flask", "AWS S3"]
+    },
+    {
         "image": "/aws-core-banking.jpg",
         "title": "Core Banking Disaster Recovery Solution",
         "link": "https://github.com/andrewnguyen41/aws-core-banking-disaster-recovery",
@@ -7,11 +14,11 @@
         "tags": ["AWS", "CloudFormation", "System Design"]
     },
     {
-        "image": "/fraud-detection.png",
-        "title": "Credit Card Fraud Detection ML System",
-        "link": "https://github.com/andrewnguyen41/fraud-detection-ml-system",
-        "summary": "A Machine Learning system for fraud detection using XGBoost, SMOTE achieving F1 score 0.92 on Kaggle dataset. Establish a mechanism to regularly check for new data, adjust the model, and adapt to continuous update patterns.",
-        "tags": ["Scikit-learn", "Flask", "AWS S3"]
+        "image": "/location-search.jpg",
+        "title": "Real-time location search with Spatial Index",
+        "link": "https://github.com/andrewnguyen41/real-time-location-search",
+        "summary": "A Real-time Location Search illustration for driving booking app with efficient nearby drivers finding using Flask, Socket.IO, and spatial indexing for optimal performance and accuracy.",
+        "tags": ["Flask", "SocketIO", "MongoDB", "Spatial Index"]
     },
     {
         "image": "/saga.jpg",
