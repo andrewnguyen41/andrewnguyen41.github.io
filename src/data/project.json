@@ -15,7 +15,7 @@
     },
     {
         "image": "/location-search.jpg",
-        "title": "Real-time location search with Spatial Index",
+        "title": "Real-time Location Search with Spatial Index",
         "link": "https://github.com/andrewnguyen41/real-time-location-search",
         "summary": "A Real-time Location Search illustration for driving booking app with efficient nearby drivers finding using Flask, Socket.IO, and spatial indexing for optimal performance and accuracy.",
         "tags": ["Flask", "SocketIO", "MongoDB", "Spatial Index"]
