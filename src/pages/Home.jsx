@@ -36,8 +36,8 @@ const Home = () => {
           text="View Full Project Archive"
           link="https://github.com/andrewnguyen41?tab=repositories"
           anchor="projects"
-          showProject={true}
-          maxProjects={6}
+        //   showProject={true}
+          maxProjects={8}
         />
       </div>
     </>
