@@ -28,10 +28,38 @@
         "tags": ["NodeJs", "Kafka", "MongoDB"]
     },
     {
-        "image": "/vim-showcase.jpeg",
+        "image": "/serverless-image-processing.png",
+        "title": "Serverless Image Processing",
+        "link": "https://github.com/andrewnguyen41/aws-serverless-image-processing",
+        "summary": "An on-demand, scalable image processing solution using AWS Lambda, S3, Cloudfront. Handled various image-related tasks, including resizing, cropping, and object recognition.",
+        "tags": ["AWS", "Lambda", "S3", "Cloudfront"]
+    },
+    {
+        "image": "/vim-showcase.jpg",
         "title": "Vim Development Config Showcase",
         "link": "https://github.com/andrewnguyen41/vim-showcase",
         "summary": "A Vim, Tmux, Yabai, Alacritty development config showcases.",
         "tags": ["NeoVim", "LunarVim", "Tmux"]
+    },
+    {
+        "image": "/simple-search-engine.jpg",
+        "title": "Simple Search Engine",
+        "link": "https://github.com/andrewnguyen41/simple-search-engine",
+        "summary": "A simple search engine extracting html with Jsoup, text preprocessing via Stemming, edit distance search, and caching for recent results.",
+        "tags": ["Java", "JSoup", "Regex", "Lucene", "Edit Distance"]
+    },
+    {
+        "image": "/hate-speech.jpg",
+        "title": "Hate Speech Detection",
+        "link": "https://github.com/andrewnguyen41/hate-speech-detection",
+        "summary": "A hate speech detection using NLTK and comparison of multiple ML methods including LSTM, RNN, TFIDF.",
+        "tags": ["Python", "NLTK", "Scikit-learn", "LSTM", "RNN", "TFIDF"]
+    },
+    {
+        "image": "/distributed-joins.jpg",
+        "title": "Distributed SQL Joins Benchmark",
+        "link": "https://github.com/andrewnguyen41/distributed-sql-joins-benchmark",
+        "summary": "Comparative analysis of different relational database join strategies in distributed systems, including Broadcast, Partitioned, Bucketed, Sort-Merge, MapReduce, and Bloom Filter Joins",
+        "tags": ["NodeJs", "Mysql", "Distributed Joins", "Docker"]
     }
 ]
